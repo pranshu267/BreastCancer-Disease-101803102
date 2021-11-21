@@ -18,4 +18,16 @@ Output
 # Flowchart of Methodology
 ![WhatsApp Image 2021-11-21 at 6 36 06 PM](https://user-images.githubusercontent.com/90909588/142766514-979b9946-636c-49d1-8bf3-87841a18367e.jpeg)
 
+# Tech Stack
+
+A list of technologies used within the project:
+* Python
+* Numpy
+* Pandas
+* Sklearn
+* Flask
+* HTML
+* CSS
+* Heruko
+
 
